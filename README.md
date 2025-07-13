@@ -1,3 +1,4 @@
+![Uploading Vybe.jpg…]()
 # Vybe 🎵
 
 > The Next-Generation Entertainment Discovery Platform  
