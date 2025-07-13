@@ -1,4 +1,5 @@
-![Uploading Vybe.jpg…]()
+![Vybe](https://github.com/user-attachments/assets/35e376f5-b961-497f-bbd4-9b1cf78cbdeb)
+
 # Vybe 🎵
 
 > The Next-Generation Entertainment Discovery Platform  
@@ -7,6 +8,8 @@
 ## 🌟 Overview
 
 Vybe is an AI-powered entertainment discovery platform that revolutionizes how people find and experience live events. By combining advanced machine learning algorithms with immersive social features, Vybe creates a deeply personalized entertainment ecosystem that adapts to users' moods, preferences, and social connections in real-time.
+
+##[Prototype](https://www.figma.com/proto/EuTIr7lXngLJRq63EMDqt6/Projects?node-id=320-9407&t=l4CHbffMklwyoAZz-1)
 
 ## 🎯 The Problem We Solve
 - **Discovery Fatigue**: People struggle to find relevant events among overwhelming options  
